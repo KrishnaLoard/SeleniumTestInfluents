@@ -1,0 +1,17 @@
+
+<suite name="TestSeleniumSuit">
+	<test name="TestOfselenium">
+		<classes>
+			<class
+				name="com.influents.maintestcases.LoginTestCaseInfluents"></class>
+			<class
+				name="com.influents.maintestcases.SendSnap_SpecificAudience"></class>
+			<class
+				name="com.influents.maintestcases.SnapCast_CardView_NewCard"></class>
+			<class
+				name="com.influents.maintestcases.SnapCastToEveryone_PushNotification"></class>
+				
+				
+		</classes>
+	</test>
+</suite>
